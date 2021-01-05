@@ -34,7 +34,7 @@
   "homepage": "https://github.com/CB721/hiker#readme",
   "dependencies": {
     "@svgr/webpack": "^5.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "concurrently": "^4.1.0",
     "express": "^4.17.1",
